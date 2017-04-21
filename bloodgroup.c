@@ -4,6 +4,7 @@
 # add comment to edit #1 c program
 # I'm A
 # add this comment
+# This is B
 void main()
 { char Name[40], G[5], answer[10];
   int i;
